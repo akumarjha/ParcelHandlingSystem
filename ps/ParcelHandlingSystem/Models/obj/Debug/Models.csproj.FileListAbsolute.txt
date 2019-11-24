@@ -1,0 +1,9 @@
+C:\ACP\ParcelHandlingSystem\Models\bin\Debug\Models.dll
+C:\ACP\ParcelHandlingSystem\Models\bin\Debug\Models.pdb
+C:\ACP\ParcelHandlingSystem\Models\obj\Debug\Models.dll
+C:\ACP\ParcelHandlingSystem\Models\obj\Debug\Models.pdb
+C:\ACP\ParcelHandlingSystem\ParcelHandlingSystem\Models\bin\Debug\Models.dll
+C:\ACP\ParcelHandlingSystem\ParcelHandlingSystem\Models\bin\Debug\Models.pdb
+C:\ACP\ParcelHandlingSystem\ParcelHandlingSystem\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\ACP\ParcelHandlingSystem\ParcelHandlingSystem\Models\obj\Debug\Models.dll
+C:\ACP\ParcelHandlingSystem\ParcelHandlingSystem\Models\obj\Debug\Models.pdb

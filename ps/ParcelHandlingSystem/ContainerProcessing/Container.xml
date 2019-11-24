@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+
+  <Sender xsi:type="Company"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Name>SITA Ypenburg B.V.</Name>
+        <!--<Address>
+          <Street>ILSY-PLantsoen</Street>
+          <HouseNumber>1</HouseNumber>
+          <PostalCode>2497GA</PostalCode>
+          <City>Den Haag</City>
+        </Address>-->
+        <CcNumber>65465424</CcNumber>
+      </Sender>
+  
