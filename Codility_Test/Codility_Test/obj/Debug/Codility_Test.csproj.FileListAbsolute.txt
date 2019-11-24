@@ -1,0 +1,6 @@
+C:\ACP\CSBanga\Codility_Test\Codility_Test\bin\Debug\Codility_Test.exe.config
+C:\ACP\CSBanga\Codility_Test\Codility_Test\bin\Debug\Codility_Test.exe
+C:\ACP\CSBanga\Codility_Test\Codility_Test\bin\Debug\Codility_Test.pdb
+C:\ACP\CSBanga\Codility_Test\Codility_Test\obj\Debug\Codility_Test.csprojResolveAssemblyReference.cache
+C:\ACP\CSBanga\Codility_Test\Codility_Test\obj\Debug\Codility_Test.exe
+C:\ACP\CSBanga\Codility_Test\Codility_Test\obj\Debug\Codility_Test.pdb
